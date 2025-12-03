@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイデンティティ (104期NEW Ver.)",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2025-12-03T18:08:25.354993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイデンティティ (104期NEW Ver.)",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_アイデンティティ_(104期NEW_Ver.)_みらくらぱーく!.txt"
+    }
+  ]
+}
